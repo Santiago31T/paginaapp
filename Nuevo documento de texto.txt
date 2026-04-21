@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>CBTIS</title>
+<style>
+body{
+    font-family:Arial;
+    background:#f4f4f4;
+    padding:20px;
+}
+.card{
+    background:white;
+    padding:20px;
+    border-radius:10px;
+}
+</style>
+</head>
+<body>
+
+<h1>CBTIS</h1>
+
+<div class="card">
+<p>
+Los CBTIS son escuelas de nivel medio superior en México donde puedes estudiar
+una carrera técnica mientras cursas el bachillerato.
+</p>
+
+<h3>Carreras:</h3>
+<ul>
+<li>Programación</li>
+<li>Contabilidad</li>
+<li>Electrónica</li>
+<li>Mecánica</li>
+</ul>
+
+<h3>Ventajas:</h3>
+<ul>
+<li>Título técnico</li>
+<li>Preparación para trabajar</li>
+<li>Acceso a universidad</li>
+</ul>
+</div>
+
+<br>
+<a href="index.html">⬅ Volver</a>
+
+</body>
+</html>
